@@ -4,9 +4,7 @@ This is a **Java-based Stock Portfolio Tracker** that allows users to:
 - Add stocks with **symbol, number of shares, and purchase price**.
 - Fetch **real-time stock prices**.
 - Calculate **profit/loss automatically**.
-- Integrated real-time stock price API for tracking over 500+ stocks dynamically.
-- Designed an intuitive GUI interface that increased user efficiency by 30%
-
+- Integrate real-time stock price API for tracking over 500+ stocks dynamically.
 
 ## 📌 Features:
 ✔️ Add stocks to your portfolio  
