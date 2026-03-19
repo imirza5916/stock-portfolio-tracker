@@ -12,10 +12,6 @@ import java.util.ArrayList;
 import java.util.List;
 import org.json.JSONObject;
 
-/**
- * Modern Stock Portfolio Tracker
- * A sleek Swing application for tracking stock investments
- */
 public class StockPortfolioTracker extends JFrame {
     
     // Colors - Dark theme
